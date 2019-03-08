@@ -1,6 +1,0 @@
-\[w = (\Phi^T \Phi) (\Phi^T x)\]
-\[w^T = (\Phi^T x)^T (\Phi^T \Phi)^{-1}\]
-\[w^T = x^T \Phi (\Phi^T \Phi)^{-1}\]
-\[v^T x = w^T \phi (t=1)\]
-\[x^T v = x^T \Phi (\Phi^T \Phi)^{-1} \phi(t=1)\]
-\[v = \Phi (\Phi^T \Phi)^{-1} \phi(t=1)\]
