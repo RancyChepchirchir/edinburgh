@@ -1,0 +1,5 @@
+*.pyc
+*.ipynb_checkpoints
+.vs_code
+.vscode
+.DS_Store

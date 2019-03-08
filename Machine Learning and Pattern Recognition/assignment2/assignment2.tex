@@ -1,0 +1,68 @@
+\documentclass[]{article}
+\renewcommand{\thesubsection}{\thesection.\alph{subsection}}
+\usepackage{graphicx}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+%opening
+\title{MLPR Assignment 2}
+\author{Christopher Sipola (s1667278)}
+
+\begin{document}
+
+\maketitle
+
+\section{}
+
+\subsection{}
+
+See figures \ref{fig:ytrainhist},  \ref{fig:yvalhist}, and \ref{fig:ytrainshorthist} for histograms and mean estimates of \texttt{y\_train}, \texttt{y\_val} and \texttt{y\_train[1:5785]} (respectively). I used one "standard error"; that is, the estimated mean is represented as $\mu = \hat{x} \pm \hat{\sigma} / \sqrt{N}$.
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q1a_y_train_histogram}
+	\caption{\label{fig:ytrainhist} Histogram of \texttt{y\_train}}
+\end{figure}
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q1a_y_val_histogram}
+	\caption{\label{fig:yvalhist} Histogram of \texttt{y\_val}}
+\end{figure}
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q1a_y_train_short_histogram}
+	\caption{\label{fig:ytrainshorthist} Histogram of \texttt{y\_train} (first 5785 observations)}
+\end{figure}
+
+Given the change in the mean of \texttt{y\_train}, it seems there's correlation between subsequent observations. See figure \ref{fig:ytraintimeseries}, which also shows that observations of \texttt{y\_train} are grouped in some way (I'll assume it's time given the language of the question). This means that if you take a continuous chunk of observations (like we did above, from observation 1 to 5,785), its mean won't be indicative of future or past means.
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q1a_y_train_time_series}
+	\caption{\label{fig:ytraintimeseries} \texttt{y\_train} across observations}
+\end{figure}
+
+\subsection{}
+
+The 1-based indices of the dropped columns are 60, 70, 180, 190, and 352.
+
+\section{}
+
+I checked the errors to make sure nothing was seriously wrong (figures \ref{fig:regerrorhist} and \ref{fig:regerrorscatter}).
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q2x_regularized_error_hist}
+	\caption{\label{fig:regerrorhist} Histogram of predicted minus observed values for \texttt{y\_train}}
+\end{figure}
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q2x_regularized_error_scatter}
+	\caption{\label{fig:regerrorscatter} Predicted vs. observed values for \texttt{y\_train}}
+\end{figure}
+
+Figure \ref{fig:weightscatter}
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Q2x_weight_scatter}
+	\caption{\label{fig:weightscatter} Fitted weights: least squares vs. gradient optimization}
+\end{figure}
+
+\end{document}

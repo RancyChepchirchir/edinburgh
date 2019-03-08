@@ -1,0 +1,11 @@
+Unicode, URLs, hashtags
+
+Q6:
+Can remove Unicode (start with “\u”)
+Create Spanish bigram model: Can use entropy and threshold.
+Keep just alpha?
+Remove one-letter tokens
+
+
+Q9:
+most common words (e.g., “the”) and most common letter combinations (e.g., “h” after “t”), and words starting/ending with “s”
