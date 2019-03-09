@@ -2,6 +2,8 @@
 
 This represents a small sample work from the **MSc in Artificial Intelligence** program at the **University of Edinburgh**, from which I graduated in 2017.
 
+Below are the courses I took in the program, along with some info about the course and what kind of information is included in this repo.
+
 | Course                                                                                        | UoE acronym | Credits | Code in repo? | Papers in repo? | Notes                                                            |
 |-----------------------------------------------------------------------------------------------|-------------|---------|---------------|-----------------|------------------------------------------------------------------|
 | [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo [thesis](https://github.com/sipolac/edinburgh) |
@@ -14,7 +16,7 @@ This represents a small sample work from the **MSc in Artificial Intelligence** 
 | [Reinforcement Learning](https://www.inf.ed.ac.uk/teaching/courses/rl/)                       | RL          | 10      | no            | yes             |                                                                  |
 | [Natural Language Understanding](https://www.inf.ed.ac.uk/teaching/courses/nlu/)              | NLU         | 10      | no            | some            |                                                                  |
 | [Informatics Research Proposal](https://www.inf.ed.ac.uk/teaching/courses/irp/)               | IRP         | 10      | no            | yes             |                                                                  |
-| [Machine Learning Practical](https://www.inf.ed.ac.uk/teaching/courses/mlp/)                  | MLP         | 20      | most          | yes             |                                                                  |
+| [Machine Learning Practical](https://www.inf.ed.ac.uk/teaching/courses/mlp/)                  | MLP         | 20      | some          | yes             |                                                                  |
 
 
 I use Python in all courses except for Machine Learning and Pattern Recognition (where I used MATLAB), Introduction to Java Programming (where I used Java), and Human Computer Interaction (where I used some Javasript).
