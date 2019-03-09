@@ -1,5 +1,20 @@
 # edinburgh
 
-This represents a small sample of my papers from the **MSc in Artificial Intelligence** program at the **University of Edinburgh**, from which I graduated in 2017. **Only a small bit of code is included** in this repository. I use Python in all courses except for Machine Learning and Pattern Recognition (where I used MATLAB), Introduction to Java Programming (where I used Java), and Human Computer Interaction (where I used some Javasript).
+This represents a small sample work from the **MSc in Artificial Intelligence** program at the **University of Edinburgh**, from which I graduated in 2017.
 
-My **thesis is in a separate repository** called "thesis".
+| Course                                                                                        | UoE acronym | Credits | Code in repo? | Papers in repo? | Notes                                                            |
+|-----------------------------------------------------------------------------------------------|-------------|---------|---------------|-----------------|------------------------------------------------------------------|
+| [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo [thesis](https://github.com/sipolac/edinburgh) |
+| [Introduction to Java Programming](https://www.inf.ed.ac.uk/teaching/courses/ijp/)            | IJP         | 10      | some          | some            |                                                                  |
+| [Human-Computer Interaction](https://www.inf.ed.ac.uk/teaching/courses/hci/)                  | HCI         | 10      | no            | no              |                                                                  |
+| [Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/)   | MLPR        | 20      | some          | yes             |                                                                  |
+| [Informatics Research Review](https://www.inf.ed.ac.uk/teaching/courses/irr/)                 | IRR         | 10      | no            | yes             |                                                                  |
+| [Foundations of Natural Language Processing](https://www.inf.ed.ac.uk/teaching/courses/fnlp/) | FNLP        | 10      | no            | no              |                                                                  |
+| [Data Mining and Exploration](https://www.inf.ed.ac.uk/teaching/courses/dme/)                 | DME         | 10      | no            | yes             |                                                                  |
+| [Reinforcement Learning](https://www.inf.ed.ac.uk/teaching/courses/rl/)                       | RL          | 10      | no            | yes             |                                                                  |
+| [Natural Language Understanding](https://www.inf.ed.ac.uk/teaching/courses/nlu/)              | NLU         | 10      | no            | some            |                                                                  |
+| [Informatics Research Proposal](https://www.inf.ed.ac.uk/teaching/courses/irp/)               | IRP         | 10      | no            | yes             |                                                                  |
+| [Machine Learning Practical](https://www.inf.ed.ac.uk/teaching/courses/mlp/)                  | MLP         | 20      | most          | yes             |                                                                  |
+
+
+I use Python in all courses except for Machine Learning and Pattern Recognition (where I used MATLAB), Introduction to Java Programming (where I used Java), and Human Computer Interaction (where I used some Javasript).
