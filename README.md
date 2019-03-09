@@ -6,7 +6,7 @@ Below are the courses I took in the program, along with some info about the cour
 
 | Course                                                                                        | UoE acronym | Credits | Code in repo? | Papers in repo? | Notes                                                            |
 |-----------------------------------------------------------------------------------------------|-------------|---------|---------------|-----------------|------------------------------------------------------------------|
-| [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo [thesis](https://github.com/sipolac/edinburgh) |
+| [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo [thesis](https://github.com/sipolac/thesis) |
 | [Introduction to Java Programming](https://www.inf.ed.ac.uk/teaching/courses/ijp/)            | IJP         | 10      | some          | some            |                                                                  |
 | [Human-Computer Interaction](https://www.inf.ed.ac.uk/teaching/courses/hci/)                  | HCI         | 10      | no            | no              |                                                                  |
 | [Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/)   | MLPR        | 20      | some          | yes             |                                                                  |
