@@ -12,9 +12,9 @@ Below are the courses I took in the program, along with some info about the cour
 | [Informatics Research Proposal](https://www.inf.ed.ac.uk/teaching/courses/irp/)               | IRP         | 10      | no            | yes             | Thesis proposal                                                  |
 | [Informatics Research Review](https://www.inf.ed.ac.uk/teaching/courses/irr/)                 | IRR         | 10      | no            | yes             |                                                                  |
 | [Introduction to Java Programming](https://www.inf.ed.ac.uk/teaching/courses/ijp/)            | IJP         | 10      | some          | some            | Programming requirement                                          |
+| [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo: [thesis](https://github.com/sipolac/thesis)  |
 | [Machine Learning Practical](https://www.inf.ed.ac.uk/teaching/courses/mlp/)                  | MLP         | 20      | some          | yes             | Focus on deep neural networks                                    |
 | [Machine Learning and Pattern Recognition](https://www.inf.ed.ac.uk/teaching/courses/mlpr/)   | MLPR        | 20      | some          | yes             |                                                                  |
-| [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo: [thesis](https://github.com/sipolac/thesis)  |
 | [Natural Language Understanding](https://www.inf.ed.ac.uk/teaching/courses/nlu/)              | NLU         | 10      | no            | some            |                                                                  |
 | [Reinforcement Learning](https://www.inf.ed.ac.uk/teaching/courses/rl/)                       | RL          | 10      | no            | yes             |                                                                  |
 
