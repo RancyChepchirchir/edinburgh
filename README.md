@@ -1,10 +1,10 @@
 # edinburgh
 
-This represents a small sample work from the **MSc in Artificial Intelligence** program at the **University of Edinburgh**, from which I graduated in 2017.
+This represents a small sample work from the [MSc in Artificial Intelligence](https://www.ed.ac.uk/studying/postgraduate/degrees?id=107&r=site/view) program at the **University of Edinburgh** (2017 class).
 
-Below are the courses I took in the program, along with some info about the course and what kind of information is included in this repo.
+Below are the courses I took in the program, along with some info about the course and what kind of material is included in this repo.
 
-| Course                                                                                        | UoE acronym | Credits | Code in repo? | Papers in repo? | Notes                                                            |
+| Course                                                                                        | UoE abbrev | Credits | Code in repo? | Papers in repo? | Notes                                                            |
 |-----------------------------------------------------------------------------------------------|-------------|---------|---------------|-----------------|------------------------------------------------------------------|
 | [MSc Dissertation (Informatics)](https://www.inf.ed.ac.uk/teaching/courses/diss/)             | DISS        | 60      | yes           | yes             | See separate repo [thesis](https://github.com/sipolac/thesis) |
 | [Introduction to Java Programming](https://www.inf.ed.ac.uk/teaching/courses/ijp/)            | IJP         | 10      | some          | some            |                                                                  |
